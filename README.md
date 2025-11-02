@@ -1,4 +1,5 @@
-Haloo ini Zakhi
+Haloo ini Zakhi Algifari 122140198 
+
 file explanation adalah file yang ada penjelasan setiap step dan file yang satunya adalah hasil training dikaggle.
 
 Langkah yang dilakukan : 
