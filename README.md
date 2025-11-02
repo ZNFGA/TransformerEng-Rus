@@ -1,5 +1,5 @@
 Haloo ini Zakhi
-
+file explanation adalah file yang ada penjelasan setiap step dan file yang satunya adalah hasil training dikaggle.
 
 Langkah yang dilakukan : 
 1. Pra-pemrosesan Data : Menambahkan start dan end untuk awal dan akhir kalimat, membersihkan tesk dari tanda baca (kecuali kurang siku) dan mengubah ke huruf kecil, membagi data 80 % training, validasi 10 %, dan pengujian 10 %
